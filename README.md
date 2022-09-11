@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: spend almost 12 hours everday
 
-![alt text](https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png =250x250)
+![alt text](https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png width="100" height="100">)
 
 ![](https://github-readme-stats.vercel.app/api?username=iamdhurjati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamdhurjati&theme=dark&hide_border=false)<br/>
