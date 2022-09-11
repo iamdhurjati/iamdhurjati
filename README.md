@@ -57,7 +57,6 @@
 <code><img height="40" width="40" src="https://img.icons8.com/color/344/jira.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/344/microsoft-excel-2019.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/microsoft-excel-2019.png"></code>
 
 #
 ![](https://github-readme-stats.vercel.app/api?username=iamdhurjati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
