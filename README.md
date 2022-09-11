@@ -16,3 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdhurjati&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
