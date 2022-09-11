@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm Dhurjati Borah 👋
 
 - 🔭 I’m currently working on American Portfolios
 - 🌱 I’m currently learning AWS 
