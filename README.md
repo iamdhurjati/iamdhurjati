@@ -18,4 +18,4 @@
 [![](https://visitcount.itsvg.in/api?id=iamdhurjati&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdhurjati&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
