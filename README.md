@@ -18,8 +18,11 @@
 
 
 
+<br/>
+<br/>
 
-
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/iamdhurjati" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -36,14 +39,25 @@
 </p> -->
 
 #
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=iamdhurjati&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+#
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<br/>
 
-<p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-</p>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png"></code>
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+
+#
+
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/tableau-software.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/jira.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/microsoft-excel-2019.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/microsoft-excel-2019.png"></code>
 
 #
 ![](https://github-readme-stats.vercel.app/api?username=iamdhurjati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -55,4 +69,3 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamdhurjati&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
