@@ -44,33 +44,34 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
+![Postgress](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pyqt5](https://img.shields.io/badge/-Pyqt5-05122A?style=flat&logo=Qt)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
-![Postgress](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![Postgress](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
 
+![MicrosoftOffice](https://img.shields.io/badge/-MSOffice-05122A?style=flat&logo=Microsoft-Office)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
+![Microsoft](https://img.shields.io/badge/-Microsoft-05122A?style=flat&logo=Microsoft)&nbsp;
+![Apple](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=Apple)&nbsp;
 
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png"></code>
-<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+On going Process:  ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon-AWS)&nbsp;
+
 
 #
-
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/tableau-software.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/jira.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/microsoft-excel-2019.png"></code>
+**Certification:**  
+<code><img height="80" width="80" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></code>
 
 #
 ![](https://github-readme-stats.vercel.app/api?username=iamdhurjati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
