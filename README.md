@@ -53,7 +53,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![MSQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
+![Postgress](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Postgress](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+
 
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code>
