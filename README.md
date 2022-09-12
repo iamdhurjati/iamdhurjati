@@ -74,7 +74,8 @@ On going Process:  ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&lo
 <code><img height="80" width="80" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"></code>
 
 <p>Check out here<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET7UHRBM5TSX"></a>.</p>
-<p>Check out <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET7UHRBM5TSX" target="_blank"></a>.</p>
+<p>Check out <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET7UHRBM5TSX" target="_blank">cerificate</a>.</p>
+
 #
 ![](https://github-readme-stats.vercel.app/api?username=iamdhurjati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamdhurjati&theme=dark&hide_border=false)<br/>
